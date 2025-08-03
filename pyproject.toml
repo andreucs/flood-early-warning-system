@@ -1,0 +1,20 @@
+[project]
+name = "streamflow-forecasting"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "absl-py>=2.3.1",
+    "great-tables>=0.18.0",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "matplotlib>=3.10.3",
+    "neuralforecast>=3.0.2",
+    "opencv-python>=4.12.0.88",
+    "polars>=1.31.0",
+    "pyfonts>=1.1.1",
+    "scikit-image>=0.25.2",
+    "scipy>=1.16.0",
+    "statsmodels>=0.14.5",
+]
