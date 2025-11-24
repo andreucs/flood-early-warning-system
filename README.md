@@ -1,1 +1,1 @@
-Inundation modeling are heavily based on https://github.com/google-research/google-research/tree/master/flood_forecasting
+Inundation modeling is heavily based on https://github.com/google-research/google-research/tree/master/flood_forecasting
